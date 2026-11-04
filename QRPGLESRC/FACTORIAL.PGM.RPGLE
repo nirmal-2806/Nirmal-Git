@@ -4,7 +4,7 @@
 Dcl-Pi *N;
   i_num Char(5);
 End-Pi;
-
+// new line 
 Dcl-S num  Packed(5:0);
 Dcl-S i    Int(10);
 Dcl-S fact Packed(20:0) Inz(1);
